@@ -13,3 +13,13 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 <!-- tocstop -->
 
 ---
+
+---
+
+## Contribution
+
+Suggestions and PRs are welcome!
+
+Please read the [contribution guidelines](CONTRIBUTING.md) to get started.
+
+---
