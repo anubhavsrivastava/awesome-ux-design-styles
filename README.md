@@ -6,6 +6,8 @@
 
 Design System - [A comprehensive guide to design systems](https://www.invisionapp.com/inside-design/guide-to-design-systems/)
 
+`This list doesn't include designs with just HTML/CSS, but also design philosophy with respect to UX`
+
 ## Contents
 
 <!-- toc -->
