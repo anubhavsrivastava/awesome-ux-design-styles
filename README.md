@@ -23,6 +23,10 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 -   [Ant Design](https://ant.design/) [![Repo Star](https://img.shields.io/github/stars/ant-design/ant-design.svg?label=&style=social)](https://github.com/ant-design/ant-design/) - A design system with values of Nature and Determinacy for better user experience of enterprise applications.
     <!-- -   [Material design]() -->
 
+## Resources
+
+-   [Google Design](https://design.google/) - Cooperative effort led by a group of designers, writers, and developers at Google to publish original content, produce events, and foster creative and educational partnerships that advance design and technology.
+
 ## Contribution
 
 Suggestions and PRs are welcome!
