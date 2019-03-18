@@ -14,8 +14,6 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 
 ---
 
----
-
 ## Styleguides
 
 <!-- -   [Fabric UI](https://developer.microsoft.com/en-us/fabric) -->
