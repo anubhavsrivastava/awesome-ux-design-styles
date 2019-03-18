@@ -18,6 +18,11 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 
 ## Styleguides
 
+<!-- -   [Fabric UI](https://developer.microsoft.com/en-us/fabric) -->
+
+-   [Ant Design](https://ant.design/) [![Repo Star](https://img.shields.io/github/stars/ant-design/ant-design.svg?label=&style=social)](https://github.com/ant-design/ant-design/) - A design system with values of Nature and Determinacy for better user experience of enterprise applications.
+    <!-- -   [Material design]() -->
+
 ## Contribution
 
 Suggestions and PRs are welcome!
