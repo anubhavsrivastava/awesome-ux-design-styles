@@ -16,6 +16,7 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 
 ## Styleguides
 
+-   [Atlassian Design](https://atlassian.design/) - Atlassian Design Guidelines used across Atlassian products.
 -   [Ant Design](https://ant.design/) [![Repo Star](https://img.shields.io/github/stars/ant-design/ant-design.svg?label=&style=social)](https://github.com/ant-design/ant-design/) - A design system with values of Nature and Determinacy for better user experience of enterprise applications.
 -   [Fabric UI](https://developer.microsoft.com/en-us/fabric) [![Repo Star](https://img.shields.io/github/stars/OfficeDev/office-ui-fabric-core.svg?label=&style=social)](https://github.com/OfficeDev/office-ui-fabric-core) - The official front-end framework for building experiences that fit seamlessly into Office and Office 365.
 -   [Material design](https://material.io/design) [![Repo Star](https://img.shields.io/github/stars/OfficeDev/office-ui-fabric-core.svg?label=&style=social)](https://github.com/OfficeDev/office-ui-fabric-core) - Material is an adaptable system of guidelines, components, and tools that support the best practices of user interface design
