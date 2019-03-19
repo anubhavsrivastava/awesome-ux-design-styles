@@ -18,6 +18,7 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 
 -   [Atlassian Design](https://atlassian.design/) by Atlassian - Atlassian Design Guidelines used across Atlassian products.
 -   [Ant Design](https://ant.design/) [![Repo Star](https://img.shields.io/github/stars/ant-design/ant-design.svg?label=&style=social)](https://github.com/ant-design/ant-design/) - A design system with values of Nature and Determinacy for better user experience of enterprise applications.
+-   [Design Language](http://developer.royalcanin.com/) by Royal Canin - Design Language is a shared design system that unifies Royal Canin's global digital style.
 -   [Fabric UI](https://developer.microsoft.com/en-us/fabric) [![Repo Star](https://img.shields.io/github/stars/OfficeDev/office-ui-fabric-core.svg?label=&style=social)](https://github.com/OfficeDev/office-ui-fabric-core) by Microsoft - The official front-end framework for building experiences that fit seamlessly into Office and Office 365.
 -   [Material design](https://material.io/design) [![Repo Star](https://img.shields.io/github/stars/mui-org/material-ui.svg?label=&style=social)](https://github.com/mui-org/material-ui) by Google - Material is an adaptable system of guidelines, components, and tools that support the best practices of user interface design
 
