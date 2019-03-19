@@ -23,6 +23,7 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 -   [Fabric UI](https://developer.microsoft.com/en-us/fabric) [![Repo Star](https://img.shields.io/github/stars/OfficeDev/office-ui-fabric-core.svg?label=&style=social)](https://github.com/OfficeDev/office-ui-fabric-core) by Microsoft - The official front-end framework for building experiences that fit seamlessly into Office and Office 365.
 -   [Material design](https://material.io/design) [![Repo Star](https://img.shields.io/github/stars/mui-org/material-ui.svg?label=&style=social)](https://github.com/mui-org/material-ui) by Google - Material is an adaptable system of guidelines, components, and tools that support the best practices of user interface design
 -   [Snacks](https://instacart.github.io/Snacks/) [![Repo Star](https://img.shields.io/github/stars/instacart/Snacks.svg?label=&style=social)](https://github.com/instacart/Snacks) by Instacart - Snacks is a JavaScript and React based component library. It has a default theme matching Instacart's styles.
+-   [Styleguide](https://styleguide.auth0.com/) [![Repo Star](https://img.shields.io/github/stars/auth0/styleguide.svg?label=&style=social)](https://github.com/auth0/styleguide) by auth0 - Conjunction of design patterns, components and resources used across auth0's products.
 
 ## Resources
 
