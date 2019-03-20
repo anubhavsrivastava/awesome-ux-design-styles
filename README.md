@@ -28,6 +28,7 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 -   [Photon](https://design.firefox.com/photon/) [![Repo Star](https://img.shields.io/github/stars/FirefoxUX/photon.svg?label=&style=social)](https://github.com/FirefoxUX/photon) by Mozilla Firefox - Firefox’s Photon Design System
 -   [PricelineOne](https://pricelinelabs.github.io/design-system/) [![Repo Star](https://img.shields.io/github/stars/pricelinelabs/design-system.svg?label=&style=social)](https://github.com/pricelinelabs/design-system/) by Priceline - Priceline.com Design System to create a consistently great experience for users
 -   [Snacks](https://instacart.github.io/Snacks/) [![Repo Star](https://img.shields.io/github/stars/instacart/Snacks.svg?label=&style=social)](https://github.com/instacart/Snacks) by Instacart - Snacks is a JavaScript and React based component library. It has a default theme matching Instacart's styles.
+-   [Style Guide](http://style.helpscout.com/) [![Repo Star](https://img.shields.io/github/stars/helpscout/seed-base.svg?label=&style=social)](https://github.com/helpscout/seed-base) by Help Scout - This style guide is a way to empower members of the Help Scout team to move quickly and have consistent experience
 -   [Styleguide](https://styleguide.auth0.com/) [![Repo Star](https://img.shields.io/github/stars/auth0/styleguide.svg?label=&style=social)](https://github.com/auth0/styleguide) by auth0 - Conjunction of design patterns, components and resources used across auth0's products.
 
 ## Resources
