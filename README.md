@@ -18,6 +18,7 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 
 -   [Atlassian Design](https://atlassian.design/) by Atlassian - Atlassian Design Guidelines used across Atlassian products.
 -   [Ant Design](https://ant.design/) [![Repo Star](https://img.shields.io/github/stars/ant-design/ant-design.svg?label=&style=social)](https://github.com/ant-design/ant-design/) - A design system with values of Nature and Determinacy for better user experience of enterprise applications.
+-   [Audi UI](https://www.audi.com/ci/en/guides/user-interface/introduction.html) [![Repo Star](https://img.shields.io/github/stars/audi/audi-ui.svg?label=&style=social)](https://github.com/audi/audi-ui) by Audi - based on the principles of the Audi look: variety, honesty and balance.
 -   [Bloom](http://bloom.appearhere.co.uk/) by Appear Here - Bloom is Appear Here’s central repository for design patterns and guidelines.
 -   [Brand Estonia](https://brand.estonia.ee/) by estonia - The visual language of Brand Estonia created by Estonian Design Team
 -   [Cedar](http://rei.github.io/rei-cedar/) [![Repo Star](https://img.shields.io/github/stars/rei/rei-cedar.svg?label=&style=social)](https://github.com/rei/rei-cedar) by Rei - REI Digital Design System presentation framework
