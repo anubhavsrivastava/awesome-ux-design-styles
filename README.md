@@ -20,6 +20,7 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 -   [Ant Design](https://ant.design/) [![Repo Star](https://img.shields.io/github/stars/ant-design/ant-design.svg?label=&style=social)](https://github.com/ant-design/ant-design/) - A design system with values of Nature and Determinacy for better user experience of enterprise applications.
 -   [Bloom](http://bloom.appearhere.co.uk/) by Appear Here - Bloom is Appear Here’s central repository for design patterns and guidelines.
 -   [Brand Estonia](https://brand.estonia.ee/) by estonia - The visual language of Brand Estonia created by Estonian Design Team
+-   [Cedar](http://rei.github.io/rei-cedar/) [![Repo Star](https://img.shields.io/github/stars/rei/rei-cedar.svg?label=&style=social)](https://github.com/rei/rei-cedar) by Rei - REI Digital Design System presentation framework
 -   [CFPB Design Manual](https://cfpb.github.io/design-manual/) [![Repo Star](https://img.shields.io/github/stars/cfpb/capital-framework.svg?label=&style=social)](https://github.com/cfpb/capital-framework) - The Consumer Financial Protection Bureau's user interface framework
 -   [Design Language](http://developer.royalcanin.com/) by Royal Canin - Design Language is a shared design system that unifies Royal Canin's global digital style.
 -   [Duolingo Design](https://www.duolingo.com/design/) by Duolingo - Design language by [Duolingo Design Team](https://medium.com/duolingo-design)
