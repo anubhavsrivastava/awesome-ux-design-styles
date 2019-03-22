@@ -52,7 +52,7 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 -   [Seek Style Guide](https://seek-oss.github.io/seek-style-guide/) by Seek [![Repo Star](https://img.shields.io/github/stars/seek-oss/seek-style-guide.svg?label=&style=social)](https://github.com/seek-oss/seek-style-guide) - Living style guide for SEEK, powered by React, webpack, CSS Modules and Less
 -   [Snacks](https://instacart.github.io/Snacks/) [![Repo Star](https://img.shields.io/github/stars/instacart/Snacks.svg?label=&style=social)](https://github.com/instacart/Snacks) by Instacart - Snacks is a JavaScript and React based component library. It has a default theme matching Instacart's styles.
 -   [Solid](https://solid.buzzfeed.com/) by Buzzfeed - Solid is BuzzFeed's CSS style guide. You can read more about Solid in [blog post](https://medium.com/buzzfeed-design/introducing-solid-1c16b1bf4868#.b8sqi9a73).
--   [auth0 Styleguide](https://styleguide.auth0.com/) [![Repo Star](https://img.shields.io/github/stars/auth0/styleguide.svg?label=&style=social)](https://github.com/auth0/styleguide) by auth0 - Conjunction of design patterns, components and resources used across auth0's products.
+-   [USAJOBS Design System](https://usajobs.github.io/design-system/) [![Repo Star](https://img.shields.io/github/stars/USAJOBS/design-system.svg?label=&style=social)](https://github.com/USAJOBS/design-system) by USAJOBS- Describes the design language and reusable components of USAJOBS, Open Opportunities, and Agency Talent Portal
 
 ## Resources
 
