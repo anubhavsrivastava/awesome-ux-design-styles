@@ -16,8 +16,9 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 
 ## Styleguides
 
--   [Atlassian Design](https://atlassian.design/) by Atlassian - Atlassian Design Guidelines used across Atlassian products.
+-   [Altinn Design System](https://altinn.github.io/designsystem-styleguide/) [![Repo Star](https://img.shields.io/github/stars/Altinn/DesignSystem.svg?label=&style=social)](https://github.com/Altinn/DesignSystem) by Altinn- The design system is based on so-called atomic design methodology, where instead of designing pages design components that can be assembled and reused in different web solutions.
 -   [Ant Design](https://ant.design/) [![Repo Star](https://img.shields.io/github/stars/ant-design/ant-design.svg?label=&style=social)](https://github.com/ant-design/ant-design/) - A design system with values of Nature and Determinacy for better user experience of enterprise applications.
+-   [Atlassian Design](https://atlassian.design/) by Atlassian - Atlassian Design Guidelines used across Atlassian products.
 -   [Audi UI](https://www.audi.com/ci/en/guides/user-interface/introduction.html) [![Repo Star](https://img.shields.io/github/stars/audi/audi-ui.svg?label=&style=social)](https://github.com/audi/audi-ui) by Audi - based on the principles of the Audi look: variety, honesty and balance.
 -   [auth0 Styleguide](https://styleguide.auth0.com/) [![Repo Star](https://img.shields.io/github/stars/auth0/styleguide.svg?label=&style=social)](https://github.com/auth0/styleguide) by auth0 - Conjunction of design patterns, components and resources used across auth0's products.
 -   [Backpack](https://backpack.github.io/) [![Repo Star](https://img.shields.io/github/stars/backpack/backpack.github.io.svg?label=&style=social)](https://github.com/backpack/backpack.github.io) by Skyscanner - Backpack is a collection of design resources, reusable components and guidelines for creating Skyscanner products.
