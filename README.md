@@ -25,7 +25,7 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 -   [Bloom](http://bloom.appearhere.co.uk/) by Appear Here - Bloom is Appear Here’s central repository for design patterns and guidelines.
 -   [Brand Estonia](https://brand.estonia.ee/) by estonia - The visual language of Brand Estonia created by Estonian Design Team
 -   [Carbon](http://carbondesignsystem.com/) By IBM - Carbon is IBM's open-source design system for digital products and experiences.
--   [Canvas](https://canvas.hubspot.com/components) - HubSpot Canvas is the design system that HubSpot uses to build products.
+-   [Canvas](https://canvas.hubspot.com/) by HubSpot - HubSpot Canvas is the design system that HubSpot uses to build products.
 -   [Cedar](http://rei.github.io/rei-cedar/) [![Repo Star](https://img.shields.io/github/stars/rei/rei-cedar.svg?label=&style=social)](https://github.com/rei/rei-cedar) by Rei - REI Digital Design System presentation framework
 -   [CFPB Design Manual](https://cfpb.github.io/design-manual/) [![Repo Star](https://img.shields.io/github/stars/cfpb/capital-framework.svg?label=&style=social)](https://github.com/cfpb/capital-framework) - The Consumer Financial Protection Bureau's user interface framework
 -   [COOP Design Manual](https://coop-design-system.herokuapp.com/) [![Repo Star](https://img.shields.io/github/stars/coopdigital/coop-frontend-toolkit.svg?label=&style=social)](https://github.com/coopdigital/coop-frontend-toolkit) by COOP - A front-end toolkit containing styles and static assets for building Co-op-branded digital content.
