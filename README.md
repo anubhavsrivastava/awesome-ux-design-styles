@@ -54,6 +54,7 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 -   [Mineral UI](https://mineral-ui.com/) [![Repo Star](https://img.shields.io/github/stars/mineral-ui/mineral-ui.svg?label=&style=social)](https://github.com/mineral-ui/mineral-ui) - A design system for the web that lets you quickly build high-quality, accessible apps. Created by [CA Technologies](https://www.ca.com)
 -   [Morningstar Design System](http://designsystem.morningstar.com/) by Morningstar - A collection of brand, visual, UX, and technical standards built into a central library so that teams can quickly build high-quality, consistent experiences.
 -   [Nachos](https://design.trello.com/) by Trello - Nachos is Trello's design system used across product
+-   [OPattern](https://ux.opower.com/opattern) by Opower- Opattern is a design system and style guide for everyone who creates Opower products.
 -   [Origami](https://origami.ft.com/) [![Repo Star](https://img.shields.io/github/stars/nFinancial-Times/ft-origami.svg?label=&style=social)](nhttps://github.com/Financial-Times/ft-origami) by Financial Times - Origami is a group of services, components, and tools used to help build websites.
 -   [Pattern Library](https://www.futurelearn.com/pattern-library) by FutureLearn - This is the FutureLearn design system.
 -   [Photon](https://design.firefox.com/photon/) [![Repo Star](https://img.shields.io/github/stars/FirefoxUX/photon.svg?label=&style=social)](https://github.com/FirefoxUX/photon) by Mozilla Firefox - Firefox’s Photon Design System
@@ -76,6 +77,7 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 -   [Swarm Design System](https://meetup.github.io/swarm-design-system/) [![Repo Star](https://img.shields.io/github/stars/meetup/swarm-design-system.svg?label=&style=social)](https://github.com/meetup/swarm-design-system) by Meetup - Guidelines for product design at Meetup. Includes our design team’s processes and principles as well as visual design
 -   [U.S. Web Design System](https://designsystem.digital.gov/) [![Repo Star](https://img.shields.io/github/stars/uswds/uswds.svg?label=&style=social)](https://github.com/uswds/uswds) by United States government - The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
 -   [USAJOBS Design System](https://usajobs.github.io/design-system/) [![Repo Star](https://img.shields.io/github/stars/USAJOBS/design-system.svg?label=&style=social)](https://github.com/USAJOBS/design-system) by USAJOBS- Describes the design language and reusable components of USAJOBS, Open Opportunities, and Agency Talent Portal
+-   [Wonderbly Design System](http://design-system.lostmy.name/) by Wonderbly -
 
 ## Resources
 
