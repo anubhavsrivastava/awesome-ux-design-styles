@@ -24,6 +24,7 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 -   [Backpack](https://backpack.github.io/) [![Repo Star](https://img.shields.io/github/stars/backpack/backpack.github.io.svg?label=&style=social)](https://github.com/backpack/backpack.github.io) by Skyscanner - Backpack is a collection of design resources, reusable components and guidelines for creating Skyscanner products.
 -   [Bloom](http://bloom.appearhere.co.uk/) by Appear Here - Bloom is Appear Here’s central repository for design patterns and guidelines.
 -   [Brand Estonia](https://brand.estonia.ee/) by estonia - The visual language of Brand Estonia created by Estonian Design Team
+-   [Brainly style guide](https://styleguide.brainly.com) [![Repo Star](https://img.shields.io/github/stars/brainly/style-guide.svg?label=&style=social)](https://github.com/brainly/style-guide) by Brainly - This style guide is being used across all language versions of the Brainly website
 -   [Carbon](http://carbondesignsystem.com/) By IBM - Carbon is IBM's open-source design system for digital products and experiences.
 -   [Canvas](https://canvas.hubspot.com/) by HubSpot - HubSpot Canvas is the design system that HubSpot uses to build products.
 -   [Cedar](http://rei.github.io/rei-cedar/) [![Repo Star](https://img.shields.io/github/stars/rei/rei-cedar.svg?label=&style=social)](https://github.com/rei/rei-cedar) by Rei - REI Digital Design System presentation framework
