@@ -10,6 +10,11 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 
 <!-- toc -->
 
+-   [Styleguides](#styleguides)
+-   [Resources](#resources)
+-   [Contribution](#contribution)
+-   [License](#license)
+
 <!-- tocstop -->
 
 ---
