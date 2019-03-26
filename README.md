@@ -59,7 +59,7 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 -   [Morningstar Design System](http://designsystem.morningstar.com/) by Morningstar - A collection of brand, visual, UX, and technical standards built into a central library so that teams can quickly build high-quality, consistent experiences.
 -   [Nachos](https://design.trello.com/) by Trello - Nachos is Trello's design system used across product
 -   [OPattern](https://ux.opower.com/opattern) by Opower - Opattern is a design system and style guide for everyone who creates Opower products.
--   [Origami](https://origami.ft.com/) [![Repo Star](https://img.shields.io/github/stars/nFinancial-Times/ft-origami.svg?label=&style=social)](nhttps://github.com/Financial-Times/ft-origami) by Financial Times - Origami is a group of services, components, and tools used to help build websites.
+-   [Origami](https://origami.ft.com/) [![Repo Star](https://img.shields.io/github/stars/Financial-Times/origami.svg?label=&style=social)](https://github.com/Financial-Times/origami) by Financial Times - Origami is a group of services, components, and tools used to help build websites.
 -   [Pajamas Design System](https://design.gitlab.com/) by Gitlab - Also know as GitLab's open source Design System acts as Resources, components, and design guidelines behind GitLab
 -   [Pattern Library](https://www.futurelearn.com/pattern-library) by FutureLearn - This is the FutureLearn design system.
 -   [Photon](https://design.firefox.com/photon/) [![Repo Star](https://img.shields.io/github/stars/FirefoxUX/photon.svg?label=&style=social)](https://github.com/FirefoxUX/photon) by Mozilla Firefox - Firefox’s Photon Design System
