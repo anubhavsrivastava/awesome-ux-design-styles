@@ -60,6 +60,7 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 -   [Nachos](https://design.trello.com/) by Trello - Nachos is Trello's design system used across product
 -   [OPattern](https://ux.opower.com/opattern) by Opower - Opattern is a design system and style guide for everyone who creates Opower products.
 -   [Origami](https://origami.ft.com/) [![Repo Star](https://img.shields.io/github/stars/nFinancial-Times/ft-origami.svg?label=&style=social)](nhttps://github.com/Financial-Times/ft-origami) by Financial Times - Origami is a group of services, components, and tools used to help build websites.
+-   [Pajamas Design System](https://design.gitlab.com/) by Gitlab - Also know as GitLab's open source Design System acts as Resources, components, and design guidelines behind GitLab
 -   [Pattern Library](https://www.futurelearn.com/pattern-library) by FutureLearn - This is the FutureLearn design system.
 -   [Photon](https://design.firefox.com/photon/) [![Repo Star](https://img.shields.io/github/stars/FirefoxUX/photon.svg?label=&style=social)](https://github.com/FirefoxUX/photon) by Mozilla Firefox - Firefox’s Photon Design System
 -   [Plasma](http://plasma.guide/) [![Repo Star](https://img.shields.io/github/stars/wework/plasma.svg?label=&style=social)](https://github.com/wework/plasma) by WeWork - Plasma is a design system for creating sensible, modern interfaces by WeWork
