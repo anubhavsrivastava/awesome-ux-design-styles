@@ -78,6 +78,7 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 -   [Swarm Design System](https://meetup.github.io/swarm-design-system/) [![Repo Star](https://img.shields.io/github/stars/meetup/swarm-design-system.svg?label=&style=social)](https://github.com/meetup/swarm-design-system) by Meetup - Guidelines for product design at Meetup. Includes our design team’s processes and principles as well as visual design
 -   [U.S. Web Design System](https://designsystem.digital.gov/) [![Repo Star](https://img.shields.io/github/stars/uswds/uswds.svg?label=&style=social)](https://github.com/uswds/uswds) by United States government - The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
 -   [USAJOBS Design System](https://usajobs.github.io/design-system/) [![Repo Star](https://img.shields.io/github/stars/USAJOBS/design-system.svg?label=&style=social)](https://github.com/USAJOBS/design-system) by USAJOBS- Describes the design language and reusable components of USAJOBS, Open Opportunities, and Agency Talent Portal
+-   [uStyle](https://ustyle.guide/) [![Repo Star](https://img.shields.io/github/stars/uswitch/ustyle.svg?label=&style=social)](https://github.com/uswitch/ustyle) by uSwitch- uStyle includes documentation and guidelines relating to uSwitch's core design principles
 -   [Wonderbly Design System](http://design-system.lostmy.name/) by Wonderbly -
 
 ## Resources
