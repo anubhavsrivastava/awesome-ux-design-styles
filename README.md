@@ -31,7 +31,6 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 -   [Brand Estonia](https://brand.estonia.ee/) by estonia - The visual language of Brand Estonia created by Estonian Design Team
 -   [Brainly style guide](https://styleguide.brainly.com) [![Repo Star](https://img.shields.io/github/stars/brainly/style-guide.svg?label=&style=social)](https://github.com/brainly/style-guide) by Brainly - This style guide is being used across all language versions of the Brainly website.
 -   [Carbon](http://carbondesignsystem.com/) By IBM - Carbon is IBM's open-source design system for digital products and experiences.
--   [Canvas](https://canvas.hubspot.com/) by HubSpot - HubSpot Canvas is the design system that HubSpot uses to build products.
 -   [Cedar](http://rei.github.io/rei-cedar/) [![Repo Star](https://img.shields.io/github/stars/rei/rei-cedar.svg?label=&style=social)](https://github.com/rei/rei-cedar) by Rei - REI Digital Design System presentation framework
 -   [CFPB Design Manual](https://cfpb.github.io/design-manual/) [![Repo Star](https://img.shields.io/github/stars/cfpb/capital-framework.svg?label=&style=social)](https://github.com/cfpb/capital-framework) - The Consumer Financial Protection Bureau's user interface framework
 -   [Chameleon](https://pusher.github.io/chameleon/) [![Repo Star](https://img.shields.io/github/stars/pusher/chameleon.svg?label=&style=social)](https://github.com/pusher/chameleon) by Pusher - Chameleon is a library of front-end patterns, variables, and helpers used by Pusher
@@ -51,6 +50,7 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 -   [Grommet](https://v2.grommet.io/) [![Repo Star](https://img.shields.io/github/stars/grommet/grommet.svg?label=&style=social)](https://github.com/grommet/grommet) by HP Enterprise - Part design system, part framework (react) that provides accessibility, modularity, responsiveness, and theming
 -   [Hedwig](https://hedwig-docs.herokuapp.com) [![Repo Star](https://img.shields.io/github/stars/bring/hedwig.svg?label=&style=social)](https://github.com/bring/hedwig) by Bring & Posten - Collection of design components that can be assembled together to build any number of applications.
 -   [Help Scout Style Guide](http://style.helpscout.com/) [![Repo Star](https://img.shields.io/github/stars/helpscout/seed-base.svg?label=&style=social)](https://github.com/helpscout/seed-base) by Help Scout - This style guide is a way to empower members of the Help Scout team to move quickly and have consistent experience
+-   [HubSpot Canvas](https://canvas.hubspot.com/) by HubSpot - HubSpot Canvas is the design system that HubSpot uses to build products.
 -   [Lexicon](https://lexicondesign.io/) [![Repo Star](https://img.shields.io/github/stars/liferay/lexicon-site.svg?label=&style=social)](https://github.com/liferay/lexicon-site) by Liferay - Lexicon is a design language that provides a common framework for building interfaces within the Liferay product ecosystem.
 -   [Lightning Design System](https://www.lightningdesignsystem.com/) [![Repo Star](https://img.shields.io/github/stars/salesforce-ux/design-system.svg?label=&style=social)](https://github.com/salesforce-ux/design-system) by Salesforce - The Salesforce Lightning Design System includes the resources to create user interfaces consistent with the Salesforce Lightning principles, design language, and best practices
 -   [Material design](https://material.io/design) [![Repo Star](https://img.shields.io/github/stars/mui-org/material-ui.svg?label=&style=social)](https://github.com/mui-org/material-ui) by Google - Material is an adaptable system of guidelines, components, and tools that support the best practices of user interface design
@@ -85,6 +85,7 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 -   [USAJOBS Design System](https://usajobs.github.io/design-system/) [![Repo Star](https://img.shields.io/github/stars/USAJOBS/design-system.svg?label=&style=social)](https://github.com/USAJOBS/design-system) by USAJOBS- Describes the design language and reusable components of USAJOBS, Open Opportunities, and Agency Talent Portal
 -   [uStyle](https://ustyle.guide/) [![Repo Star](https://img.shields.io/github/stars/uswitch/ustyle.svg?label=&style=social)](https://github.com/uswitch/ustyle) by uSwitch- uStyle includes documentation and guidelines relating to uSwitch's core design principles
 -   [Wonderbly Design System](http://design-system.lostmy.name/) by Wonderbly -
+-   [Workday Canvas Design System](https://design.workday.com/) by Workday - Delve into Workday design standards, writing guidelines, and playbook to create exceptional enterprise experiences.
 
 ## Resources
 
