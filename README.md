@@ -89,6 +89,7 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 -   [uStyle](https://ustyle.guide/) [![Repo Star](https://img.shields.io/github/stars/uswitch/ustyle.svg?label=&style=social)](https://github.com/uswitch/ustyle) by uSwitch- uStyle includes documentation and guidelines relating to uSwitch's core design principles
 -   [Wonderbly Design System](http://design-system.lostmy.name/) by Wonderbly - Design System based on Wonderbly Design principles
 -   [Workday Canvas Design System](https://design.workday.com/) by Workday - Delve into Workday design standards, writing guidelines, and playbook to create exceptional enterprise experiences.
+-   [Zendesk Garden](https://garden.zendesk.com/) [![Repo Star](https://img.shields.io/github/stars/zendeskgarden/css-components.svg?label=&style=social)](https://github.com/zendeskgarden/css-components) by Zendesk - Garden is where user interface components for Zendesk products.
 
 ## Resources
 
