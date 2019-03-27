@@ -1,4 +1,4 @@
-# Awesome UX Design
+# Awesome UX Design Styleguides
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
