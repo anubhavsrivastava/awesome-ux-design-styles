@@ -21,7 +21,7 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 
 ---
 
-## Styleguides
+## Guidelines/Styleguides
 
 -   [Altinn Design System](https://altinn.github.io/designsystem-styleguide/) [![Repo Star](https://img.shields.io/github/stars/Altinn/DesignSystem.svg?label=&style=social)](https://github.com/Altinn/DesignSystem) by Altinn- The design system is based on so-called atomic design methodology, where instead of designing pages design components that can be assembled and reused in different web solutions.
 -   [Ant Design](https://ant.design/) [![Repo Star](https://img.shields.io/github/stars/ant-design/ant-design.svg?label=&style=social)](https://github.com/ant-design/ant-design/) by Ant Financial - A design system with values of Nature and Determinacy for better user experience of enterprise applications.
