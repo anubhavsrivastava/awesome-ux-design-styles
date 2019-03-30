@@ -105,6 +105,7 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 
 ## Resources
 
+-   [Awesome UI component library](https://github.com/anubhavsrivastava/awesome-ui-component-library) for component library implementation (React, Vue, Angular, etc) for styleguides
 -   [Google Design](https://design.google/) - Cooperative effort led by a group of designers, writers, and developers at Google to publish original content, produce events, and foster creative and educational partnerships that advance design and technology.
 
 ## Contribution
