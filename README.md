@@ -114,6 +114,8 @@ Suggestions and PRs are welcome!
 
 Please read the [contribution guidelines](CONTRIBUTING.md) to get started.
 
+[![HitCount](http://hits.dwyl.io/anubhavsrivastava/awesome-ux-design-styles.svg)](http://hits.dwyl.io/anubhavsrivastava/awesome-ux-design-styles)
+
 ---
 
 ## License
