@@ -108,6 +108,7 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 -   [AgnosticUI](https://www.agnosticui.com/) - Accessible React component primitives that also work with Vue 3, Svelte, and Angular! ([GitHub](https://github.com/AgnosticUI/agnosticui), [Demo](https://developtodesign.com/agnosticui-examples))
 -   [Awesome UI component library](https://github.com/anubhavsrivastava/awesome-ui-component-library) for component library implementation (React, Vue, Angular, etc) for styleguides
 -   [Google Design](https://design.google/) - Cooperative effort led by a group of designers, writers, and developers at Google to publish original content, produce events, and foster creative and educational partnerships that advance design and technology.
+-   [Pic2SVG](https://pic2svg.com/) - Converts raster images, logos, and screenshots into editable SVG paths for design handoff.
 
 ## Contribution
 
